@@ -1,4 +1,4 @@
-# Prueba Técnica — Sistema CRUD Productos (Laravel 11 API + React 18 TS)
+# Sistema CRUD Productos (Laravel 11 API + React 18 TS)
 
 CRUD completo de **Productos** (nombre, descripción, precio, cantidad),
 con buenas prácticas, validación, paginación, autenticación por token, y frontend moderno.
