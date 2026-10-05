@@ -72,4 +72,11 @@ VITE_API_URL=http://127.0.0.1:8000
 2. Administra productos en `/productos`
 
 
+### 3) Pantallazo de la aplicación
+
+<img width="1119" height="872" alt="image" src="https://github.com/user-attachments/assets/7b349973-11e5-44f5-87eb-300d6b060441" />
+
+<img width="843" height="685" alt="image" src="https://github.com/user-attachments/assets/7ed9a15a-e370-4fa7-b261-47f503da67e1" />
+
+
 NOTAS: No hay que crear tablas en la base de datos porque ya esta definida en migraciones (tabla productos).
